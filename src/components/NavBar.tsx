@@ -9,7 +9,7 @@ const NavBar: React.FC = () => {
           <Navbar bg="light" expand="lg" className="fixed-top">
             <Navbar.Brand href="#home" className="logo-wrapper">
               <img
-                src="src/assets/logo2.png"
+                src="/logo2.png"
                 alt="Logo"
                 className="logo-image"
               />

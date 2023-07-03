@@ -19,7 +19,7 @@ const About: React.FC = () => {
               </div>
             </div>
             <div className="col-lg-6">
-                <img src="src/assets/truck-freight.jpg" alt="" />
+                <img src="/truck-freight.jpg" alt="" />
             </div>
           </div>
           <div className="text-center mt-5">

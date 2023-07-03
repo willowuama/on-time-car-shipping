@@ -9,7 +9,7 @@ const ShippingSteps: React.FC = () => {
       <h2 className='section-title text-center steps-title'>How to Ship Your Vehicle</h2>
       <Row>
         <Col xs={12} md={6}>
-          <Image src="src/assets/car.jpg" fluid />
+          <Image src="/car.jpg" fluid />
         </Col>
         <Col xs={12} md={6}>
           <h3 className="steps-title"><strong>Step 1</strong></h3>
@@ -23,7 +23,7 @@ const ShippingSteps: React.FC = () => {
       </Row>
       <Row>
         <Col xs={12} md={6} className="order-md-2">
-          <Image src="src/assets/jeep.jpg" fluid />
+          <Image src="/jeep.jpg" fluid />
         </Col>
         <Col xs={12} md={6} className="order-md-1">
           <h3 className="steps-title"><strong>Step 2</strong></h3>
@@ -37,7 +37,7 @@ const ShippingSteps: React.FC = () => {
       </Row>
       <Row>
         <Col xs={12} md={6}>
-          <Image src="src/assets/classic.jpg" fluid />
+          <Image src="/classic.jpg" fluid />
         </Col>
         <Col xs={12} md={6}>
           <h3 className="steps-title"><strong>Step 3</strong></h3>
@@ -51,7 +51,7 @@ const ShippingSteps: React.FC = () => {
       </Row>
       <Row>
         <Col xs={12} md={6} className="order-md-2">
-          <Image src="src/assets/moto.jpg" fluid />
+          <Image src="/moto.jpg" fluid />
         </Col>
         <Col xs={12} md={6} className="order-md-1">
           <h3 className="steps-title"><strong>Step 4</strong></h3>
